@@ -6,7 +6,7 @@
 ### ⚙️ - Estudando no momento :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Habilidades](https://skillicons.dev/icons?i=js,ts,git,github,tailwind,react,nextjs)](https://github.com/IBrunooDev)
+[![Habilidades](https://skillicons.dev/icons?i=js,git,github,)](https://github.com/Ka1ux)
 
 <!--Area de Contato-->
 ### ⚙️ - Contatos :
