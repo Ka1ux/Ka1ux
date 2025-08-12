@@ -3,8 +3,8 @@
 
 <!--Status Tecnoligia-->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IBrunooDev&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=1E90FF&text_color=FFFFFF&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBrunooDev&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ka1ux&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=1E90FF&text_color=FFFFFF&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1ux&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
   
 
 <!--Minhas Habilidades-->
