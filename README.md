@@ -1,6 +1,6 @@
 # About Me:
-- 19 y/o dev ai, backend & frontend  <br> <br>- 🚀 Always learning — aiming to solve real problems with clean code<br>
-
+19 anos
+Machine Learning, Back end
 <!--Status Tecnoligia-->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ka1ux&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=1E90FF&text_color=FFFFFF&bg_color=0d1117" /> 
