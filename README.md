@@ -1,6 +1,12 @@
 # About Me:
 - 19 y/o dev ai, backend & frontend  <br> <br>- 🚀 Always learning — aiming to solve real problems with clean code<br>
 
+<!--Status Tecnoligia-->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IBrunooDev&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=1E90FF&text_color=FFFFFF&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBrunooDev&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+  
+
 <!--Minhas Habilidades-->
 ### ⚙️ - Minhas Habilidades :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
