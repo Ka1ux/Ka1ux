@@ -8,6 +8,12 @@
 
 [![Habilidades](https://skillicons.dev/icons?i=js,git,py,github,java)](https://github.com/Ka1ux)
 
+<!--Ferramentas de Trabalho-->
+### ⚙️ - Ferramentas de Trabalho :
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Ferramentas de Trabalho](https://skillicons.dev/icons?i=windows,vscode)](https://github.com/IBrunooDev)
+
 <!--Area de Contato-->
 ### ⚙️ - Contatos :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
