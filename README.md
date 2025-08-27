@@ -11,12 +11,12 @@ Machine Learning, Back end
 ### ⚙️ - Minhas Habilidades :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![HTML-CSS-JS](https://skillicons.dev/icons?i=python,c)](https://github.com/Ka1ux)
+[![HTML-CSS-JS](https://skillicons.dev/icons?i=python,c,git,github)](https://github.com/Ka1ux)
 
 ### ⚙️ - Estudando no momento :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Habilidades](https://skillicons.dev/icons?i=git,py,github)](https://github.com/Ka1ux)
+[![Habilidades](https://skillicons.dev/icons?i=py,tensorflow)](https://github.com/Ka1ux)
 
 <!--Ferramentas de Trabalho-->
 ### ⚙️ - Ferramentas de Trabalho :
