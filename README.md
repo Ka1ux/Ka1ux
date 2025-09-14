@@ -31,7 +31,7 @@ Passionate about technology and motivated to transform complex ideas into effici
 [![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)]()
 [![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white)]()
-
+[![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=OpenCV&logoColor=white)]()
 
 ### Tools
 [![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
