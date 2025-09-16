@@ -49,5 +49,5 @@ Passionate about technology and motivated to transform complex ideas into effici
 <!--Area de Contato-->
 ### ⚙️ - Contact :
 
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)]()
-[![GMAIL](https://skillicons.dev/icons?i=gmail)]()
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/kau%C3%A3barroso/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kaua.barrososilva6@gmail.com)
