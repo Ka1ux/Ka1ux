@@ -16,9 +16,13 @@ Passionate about technology and motivated to transform complex ideas into effici
 ### Technologies
 [![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
 [![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=cplusplus&logoColor=white)]()
+[![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white)]()
 [![Arduino](https://img.shields.io/badge/arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
 ### Machine Learning / IA
 [![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=PyTorch&logoColor=white)]()
@@ -38,7 +42,6 @@ Passionate about technology and motivated to transform complex ideas into effici
 [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/vs%20code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=white)]()
-[![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)]()
 [![Anaconda](https://img.shields.io/badge/anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=white)]()
 [![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)]()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
