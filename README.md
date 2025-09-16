@@ -16,7 +16,7 @@ Passionate about technology and motivated to transform complex ideas into effici
 ### Technologies
 [![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
 [![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=cplusplus&logoColor=white)]()
-[![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white)]()
+[![JAVA](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Arduino](https://img.shields.io/badge/arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]()
