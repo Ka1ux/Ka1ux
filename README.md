@@ -46,7 +46,7 @@
 
 ---
 
-### ⚙️ Tools
+### 🧩 Tools
 [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
@@ -58,6 +58,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<div align="center">
+
 ### 📬 Contact
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/kau%C3%A3barroso/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kaua.barrososilva6@gmail.com)
+
+</div>
