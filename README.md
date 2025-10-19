@@ -11,8 +11,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1ux&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🧠 Technologies
@@ -27,7 +25,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
----
 
 ### 🤖 Machine Learning / AI
 [![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)]()
@@ -35,16 +32,12 @@
 [![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=white)]()
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)]()
 
----
-
 ### 📊 Data & Visualization
 [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)]()
 [![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white)]()
-
----
 
 ### 🧩 Tools
 [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)]()
@@ -54,7 +47,6 @@
 [![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=white)]()
 [![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)]()
 
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
