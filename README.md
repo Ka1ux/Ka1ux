@@ -4,14 +4,21 @@
 🎓 Computer Engineering student | Interested in **AI**, **Embedded Systems**, **Backend**, and **Automation**  
 💡 Passionate about technology and motivated to transform complex ideas into efficient and innovative solutions.
 
----
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ka1ux&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=1E90FF&text_color=FFFFFF&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1ux&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+
+  <!-- Row 1: Main Stats + Alternate Stats -->
+  <a href="https://github.com/Ka1ux" target="_blank" style="margin-right:16px;">
+    <img src="https://gh-readme-profile.vercel.app/api?username=Ka1ux&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="Ka1ux's GitHub stats" height="142px"/>
+  </a>
+
+  <a href="https://github.com/Ka1ux" target="_blank">
+    <img alt="Maher's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Ka1ux&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+  </a>
+
+</p>
+
 
 ### 🧠 Technologies
 [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)]()
