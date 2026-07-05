@@ -47,3 +47,21 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kaua.barrososilva6@gmail.com)
 
 </div>
+
+---
+
+## 📊 Projetos de Dados
+
+Portfólio de projetos em Ciência de Dados, Análise de Dados e Engenharia de Dados
+(Python, pandas, scikit-learn, SQL, FastAPI). Cada repositório é autocontido e
+reproduzível.
+
+| Projeto | Área | Destaque |
+|---------|------|----------|
+| [📉 Previsão de Churn](https://github.com/Ka1ux/1) | Ciência de Dados | Classificação · AUC 0.84 |
+| [🏠 Preço de Imóveis](https://github.com/Ka1ux/2) | Ciência de Dados | Regressão · R² 0.94 |
+| [📊 Análise de Vendas](https://github.com/Ka1ux/3) | Análise de Dados | EDA + SQL + dashboard |
+| [🎯 Segmentação RFM + Coorte](https://github.com/Ka1ux/4) | Análise de Dados | Marketing · retenção |
+| [🛠️ Pipeline ETL](https://github.com/Ka1ux/5) | Engenharia de Dados | ETL modular + logging |
+| [✅ Data Quality Gate](https://github.com/Ka1ux/6) | Engenharia de Dados | Validação + quarentena |
+| [🔐 Detecção de Fraude (ML + API)](https://github.com/Ka1ux/7) | Ciência de Dados | Modelo + FastAPI + pytest |
