@@ -47,5 +47,3 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kaua.barrososilva6@gmail.com)
 
 </div>
-
----
