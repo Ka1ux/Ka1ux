@@ -58,10 +58,10 @@ reproduzível.
 
 | Projeto | Área | Destaque |
 |---------|------|----------|
-| [📉 Previsão de Churn](https://github.com/Ka1ux/1) | Ciência de Dados | Classificação · AUC 0.84 |
-| [🏠 Preço de Imóveis](https://github.com/Ka1ux/2) | Ciência de Dados | Regressão · R² 0.94 |
-| [📊 Análise de Vendas](https://github.com/Ka1ux/3) | Análise de Dados | EDA + SQL + dashboard |
-| [🎯 Segmentação RFM + Coorte](https://github.com/Ka1ux/4) | Análise de Dados | Marketing · retenção |
-| [🛠️ Pipeline ETL](https://github.com/Ka1ux/5) | Engenharia de Dados | ETL modular + logging |
-| [✅ Data Quality Gate](https://github.com/Ka1ux/6) | Engenharia de Dados | Validação + quarentena |
-| [🔐 Detecção de Fraude (ML + API)](https://github.com/Ka1ux/7) | Ciência de Dados | Modelo + FastAPI + pytest |
+| [📉 Previsão de Churn](https://github.com/Ka1ux/churn-prediction-telecom) | Ciência de Dados | Classificação · AUC 0.84 |
+| [🏠 Preço de Imóveis](https://github.com/Ka1ux/house-price-prediction) | Ciência de Dados | Regressão · R² 0.94 |
+| [📊 Análise de Vendas](https://github.com/Ka1ux/sales-analysis-sql) | Análise de Dados | EDA + SQL + dashboard |
+| [🎯 Segmentação RFM + Coorte](https://github.com/Ka1ux/rfm-customer-segmentation) | Análise de Dados | Marketing · retenção |
+| [🛠️ Pipeline ETL](https://github.com/Ka1ux/etl-pipeline) | Engenharia de Dados | ETL modular + logging |
+| [✅ Data Quality Gate](https://github.com/Ka1ux/data-quality-pipeline) | Engenharia de Dados | Validação + quarentena |
+| [🔐 Detecção de Fraude (ML + API)](https://github.com/Ka1ux/fraud-detection-ml-api) | Ciência de Dados | Modelo + FastAPI + pytest |
