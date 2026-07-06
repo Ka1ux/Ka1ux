@@ -1,5 +1,5 @@
 # 👨‍💻 About Me  
-**19 years old | Backend**
+**20 years old | Backend**
 
 🎓 Computer Engineering student | Interested in **AI**, **Embedded Systems**, **Backend**, and **Automation**  
 💡 Passionate about technology and motivated to transform complex ideas into efficient and innovative solutions.
